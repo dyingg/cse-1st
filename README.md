@@ -6,8 +6,8 @@ All solutions prefer efficiency over readability(sorry).
 
 ## Current Index
 
-###Day 2 and 3
+### Day 2 and 3
 
-**Problem 8**
-**Problem 9**
-**Problem 10**
+- Problem 8
+- Problem 9
+- Problem 10
