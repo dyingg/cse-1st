@@ -9,5 +9,5 @@ All solutions prefer efficiency over readability(sorry).
 ### Day 2 and 3
 
 - Problem 8
-- Problem 9
+- [Problem 9](https://github.com/dyingg/cse-1st/blob/master/day-2-3/9.c)
 - Problem 10
