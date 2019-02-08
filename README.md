@@ -1,4 +1,4 @@
-# CSE 1ST YEAR SOLS
+# MSIT CSE 1ST YEAR SOLS
 Solutions for people asking ¯\\_(ツ)_/¯
 
 I don't maintain all solutions, only those problems people have requested 😋
