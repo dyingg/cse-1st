@@ -16,3 +16,7 @@ All solutions prefer efficiency over readability(sorry).
 - [Problem 8](https://github.com/dyingg/cse-1st/blob/master/day-2-3/8.c)
 - [Problem 9](https://github.com/dyingg/cse-1st/blob/master/day-2-3/9.c)
 - [Problem 10](https://github.com/dyingg/cse-1st/blob/master/day-2-3/10.c)
+
+**extras**
+-[Problem 11](https://github.com/dyingg/msit-cse-1st/blob/master/day-2-3/extra-11.c)
+-[Problem 12](https://github.com/dyingg/msit-cse-1st/blob/master/day-2-3/extra-12.c)
