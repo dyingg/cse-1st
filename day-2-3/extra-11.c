@@ -16,3 +16,6 @@ int main() {
     
     return 0;
 }
+
+// Enter the number
+// 5! = 120
