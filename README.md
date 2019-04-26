@@ -10,6 +10,7 @@ All solutions prefer efficiency over readability(sorry).
 ### Day 2 and 3
 
 - [Problem 1](https://github.com/dyingg/msit-cse-1st/blob/master/day-2-3/1.c)
+- [Problem 4](https://github.com/dyingg/msit-cse-1st/blob/master/day-2-3/4.c)
 - [Problem 7](https://github.com/dyingg/msit-cse-1st/blob/master/day-2-3/7.c)
 - [Problem 8](https://github.com/dyingg/cse-1st/blob/master/day-2-3/8.c)
 - [Problem 9](https://github.com/dyingg/cse-1st/blob/master/day-2-3/9.c)
