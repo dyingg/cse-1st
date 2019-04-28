@@ -20,3 +20,7 @@ All solutions prefer efficiency over readability(sorry).
 *Extras*
 - [Problem 11](https://github.com/dyingg/msit-cse-1st/blob/master/day-2-3/extra-11.c)
 - [Problem 12](https://github.com/dyingg/msit-cse-1st/blob/master/day-2-3/extra-12.c)
+
+### Day 10
+
+- [Problem 1](https://github.com/dyingg/msit-cse-1st/blob/master/day10/1.c)
