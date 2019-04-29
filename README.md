@@ -27,6 +27,7 @@ All solutions prefer efficiency over readability(sorry).
 - [Problem 24](https://github.com/dyingg/msit-cse-1st/blob/master/day7/24.c)
 - [Problem 25](https://github.com/dyingg/msit-cse-1st/blob/master/day7/25.c)
 - [Problem 26](https://github.com/dyingg/msit-cse-1st/blob/master/day7/26.c)
+- [Problem 27](https://github.com/dyingg/msit-cse-1st/blob/master/day7/27.c)
 ## Day 8 
 
 - [Problem 18](https://github.com/dyingg/msit-cse-1st/blob/master/day8/18.c)
