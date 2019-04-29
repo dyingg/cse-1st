@@ -28,7 +28,7 @@ All solutions prefer efficiency over readability(sorry).
 - [Problem 25](https://github.com/dyingg/msit-cse-1st/blob/master/day7/25.c)
 - [Problem 26](https://github.com/dyingg/msit-cse-1st/blob/master/day7/26.c)
 - [Problem 27](https://github.com/dyingg/msit-cse-1st/blob/master/day7/27.c)
-- [Problem 30](https://github.com/dyingg/msit-cse-1st/tree/master/day7) Removes non alpha from string;
+- [Problem 30](https://github.com/dyingg/msit-cse-1st/tree/master/day7) Q -  **Removes non alpha from string**.  
 ## Day 8 
 
 - [Problem 18](https://github.com/dyingg/msit-cse-1st/blob/master/day8/18.c)
