@@ -3,7 +3,7 @@ Enter the order of matrix:
 2 2
 Enter  matrix:
 3 9
-89  5
+8 5
 Transpose Matrix:
 3 8 
 9 5 
