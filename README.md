@@ -23,7 +23,7 @@ All solutions prefer efficiency over readability(sorry).
 
 ## Day 5
 
-- [Matrix Multiplication] (https://github.com/dyingg/msit-cse-1st/blob/master/day5/matrix-mul.c)
+- [Matrix Multiplication](https://github.com/dyingg/msit-cse-1st/blob/master/day5/matrix-mul.c)
 
 ## Day 7
 
