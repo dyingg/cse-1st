@@ -1,8 +1,8 @@
-# MSIT CSE 1ST YEAR SOLS
+#  CSE 1ST YEAR SOLS
 Solutions for people asking ¯\\_(ツ)_/¯
 
 I don't maintain all solutions, only those problems people have requested 😋
-All solutions prefer efficiency over readability(sorry).
+All solutions prefer efficiency 
   
 >**NOTE:** All solutions developed on latest version of GCC with c99 you must port to old versions if non compatible yourself. 
 ## Current Index
